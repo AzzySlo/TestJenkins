@@ -13,6 +13,7 @@ import java.util.Set;
  * Bin packing algorithm to compute the minimum number of bins to store all the
  * given items.
  */
+
 public class BinPacking {
 	int[] items; // sizes of items to store
 	int m; // size of each bin
